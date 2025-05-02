@@ -33,3 +33,9 @@ Hodson, T. O., Over, T. M., & Foks, S. S. (2021). Mean Squared Error, Deconstruc
 Schmid, M., Wickler, F., Maloney, K. O., Mitchell, R., Fenske, N., & Mayr, A. (2013). Boosted Beta Regression. PLOS ONE, 8(4), e61623. https://doi.org/10.1371/journal.pone.0061623
 
 Smithson, M., & Verkuilen, J. (2006). A better lemon squeezer? Maximum-likelihood regression with beta-distributed dependent variables. Psychological Methods, 11(1), 54–71. https://doi.org/10.1037/1082-989X.11.1.54
+
+**Code-Learning Resources**
+
+Boorman, G. (n.d.). Supervised Learning with scikit-learn—DataCamp Learn. Retrieved April11 ,2025, from https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn
+
+Esteban, Miguel. (n.d.). Introduction to Deep Learning with Keras—DataCamp Learn. Retrieved April 11, 2025, from https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras
